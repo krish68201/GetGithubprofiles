@@ -1,4 +1,7 @@
 # Get User from GitHub
+
+![Capture](https://user-images.githubusercontent.com/91307741/224484727-4f7abff6-c917-4851-8efd-6b79a9a0bf59.PNG)
+
 This project allows users to easily find information about a GitHub user. By simply entering a GitHub username, the API call will retrieve and display information about the user, including their username, user ID, number of repositories, number of followers, and number of users they are following. Additionally, the project offers a convenient feature to switch between dark mode and light mode.
 
 # How to Use
